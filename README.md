@@ -1,0 +1,2 @@
+# SamrtCrop
+Python Smart crop 
